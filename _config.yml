@@ -1,22 +1,20 @@
 ### Site Settings ###
 title               : Blog
 description         : >-                               # >- means to ignore newlines until "url:"
-                      "I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production."
+                      "리겜 좋아하는 24세 대학생"
 
-url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
+url                 : "https://gjbr5.github.io"                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
-repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
+repository          : gjbr5/gjbr5.github.io    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
 #remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
 
 ### Author Info ###
 author:
-  name              : Jaehyeong Ji
+  name              : gjbr5
   image             : https://bit.ly/2KCvgVJ
 # behance           : your_username
 # dribbble          : your_username
-  email             : wlwogud02@gmail.com
+  email             : mitm@kakao.com
   facebook          : gjbr5
   github            : gjbr5
 # gitlab            : gjbr5
