@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Blog
 description         : >-                               # >- means to ignore newlines until "url:"
-                      "리겜 좋아하는 24세 대학생"
+                      "컴퓨터와 리겜을 좋아하는 24세 대학생"
 
 url                 : "https://gjbr5.github.io"                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
@@ -11,7 +11,7 @@ repository          : gjbr5/gjbr5.github.io    # repository metadata on GitHub P
 ### Author Info ###
 author:
   name              : gjbr5
-  image             : https://bit.ly/2KCvgVJ
+  image             : "/assets/deemo.jpg"
 # behance           : your_username
 # dribbble          : your_username
   email             : mitm@kakao.com

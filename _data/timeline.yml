@@ -1,17 +1,21 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Best of the Best, KITRI
+  from: 2019.07
+  to: Present
+  description: 한국정보기술연구원 차세대 보안리더 양성 프로그램 Best of the Best 8기
+               보안제품개발 트랙
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: CERT, Air Force Operational Command
+  from: 2016.02
+  to: 2018.02
+  description: 대한민국 공군 작전사령부 예하 작전정보통신단 정보보호실 근무
+
+- title: Student, Korea University of Technology and Education(KOREATECH)
+  from: 2015.03
+  to: Present
+  description: 한국기술교육대학교 컴퓨터공학부 15학번(휴학 중)
+
+- title: Student, Cheonan Ssangyong High School
+  from: 2012.03
+  to: 2015.02
+  description: 천안쌍용고등학교 졸업
+
